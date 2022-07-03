@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SummerPractice_Day2</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_main">Main</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_messages">Messages</string>
+</resources>
